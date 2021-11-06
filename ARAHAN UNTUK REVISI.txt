@@ -1,0 +1,18 @@
+Sore mas. Ini catatannya
+
+Bab I
+- Batasan Masalah ditulis apa yang akan kamu buat dan batasannya. 
+Contoh: 
+1. Penelitian ini membuat sistem informasi pengelolaan buku di perpustakaan Asah koda
+2. Penerapan sistem dilakukan di perpustakaan Asah Koda
+3. Sistem yang dibangun berbasis ....
+
+- Rumusan Masalah
+Berdasarkan pendahuluan dan indtifiaksi masalah maka dibuat rumusan masalah:
+1. bagaimana membuat sistem informasi pengelolaan buku di perpustakaan Asah koda
+2. Bagaimana penerapan sistem pengelolaan buku di perpustakaan Asah koda
+
+Bab II pastikan semua yang ditulis sesuai dengan skripsi dan dicantumkan sesuai kaidah yang berlaku.
+
+Bab III di isi apa yang kamu lakukan, tidak usah nulis deskripsi lagi. contoh: Metode penelitian yang saya gunakan adalah .....
+Desain sistem yang saya buat adalah .....
